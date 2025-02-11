@@ -10,6 +10,8 @@ This project applies three approaches (Human play, Double Deep Q-Network (DQN), 
 
 The code logs training metrics, saves trained models, and produces visualizations to evaluate performance and resource usage (memory/time). This README will guide you through setup, running the code, and understanding the outputs.
 
+<img width="286" alt="Screenshot 2025-02-11 at 1 08 34 PM" src="https://github.com/user-attachments/assets/197efffd-b127-4893-87c9-39ce7bc177f5" />
+
 ## Contents of This Directory
 - **`main.py`**: The main entry point to run the code. It imports modules like `HumanPlay`, `DoubleDQN`, and `NEAT` and provides a command-line interface to select a mode.
 - **`HumanPlay.py`**: Allows a human player to control the Flappy Bird agent.
